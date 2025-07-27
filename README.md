@@ -22,8 +22,8 @@ Here are some highlights:
 | Project | Description |
 | ------- | ----------- |
 | 🎮 **BulletTrain** | A story-driven FPS game set in space, featuring realistic graphics and old WWII weapons. |
-| 📱 **Japanese Wordbook App** | A Flutter-based vocabulary app published on the store. |
-| ⚙️ **Schedule Manager** | Flutter app for managing schedules with notification features. |
+| 📱 **Simple JLPT** | A Flutter-based vocabulary app published on the store. https://play.google.com/store/apps/details?id=com.sjlpt |
+| ⚙️ **Weekycal** | Flutter app for managing schedules with notification features. https://play.google.com/store/apps/details?id=com.weekycal |
 | 🎲 **Dice Result Calculator** | A Unity tool for calculating dice results for tabletop games. |
 
 Check my repos for source code and details!
