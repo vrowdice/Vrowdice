@@ -1,16 +1,55 @@
-## Hi there 👋
+# Vrowdice
 
-<!--
-**vrowdice/Vrowdice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Vrowdice's GitHub**!  
+This repository serves as my personal **portfolio hub**, showcasing my projects, experiments, and ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hi, I'm **Vrowdice**.  
+- 🎓 Game & App Developer  
+- 🛠️ Skilled in **Unity**, **Flutter**, **Python**, **C++**  
+- 🎮 Interested in creating **immersive games** and **useful apps**  
+- 📚 Always learning and experimenting with new technologies
+
+---
+
+## 🗂️ Projects
+
+Here are some highlights:
+
+| Project | Description |
+| ------- | ----------- |
+| 🎮 **BulletTrain** | A story-driven FPS game set in space, featuring realistic graphics and old WWII weapons. |
+| 📱 **Japanese Wordbook App** | A Flutter-based vocabulary app published on the store. |
+| ⚙️ **Schedule Manager** | Flutter app for managing schedules with notification features. |
+| 🎲 **Dice Result Calculator** | A Unity tool for calculating dice results for tabletop games. |
+
+Check my repos for source code and details!
+
+---
+
+## 🚀 Tech Stack
+
+- **Languages**: Dart, C++, C#, Python, JavaScript
+- **Frameworks**: Flutter, Unity, Django
+- **Tools**: Git, VSCode, Android Studio, Unreal Engine (in progress)
+
+---
+
+## 📫 Contact
+
+- GitHub: [Vrowdice](https://github.com/vrowdice)
+- Email: minmin310342@gmail.com
+
+---
+
+## 📝 License
+
+All my public projects are shared for **learning purposes**.  
+Please check individual repos for specific licenses.
+
+---
+
+Thanks for visiting! ⭐ Feel free to fork, open issues, or contribute ideas.
