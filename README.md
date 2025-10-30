@@ -5,7 +5,7 @@ This repository is my personal **portfolio hub**, showcasing my projects, experi
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi, I'm **Vrowdice**.  
 - 🎓 Game & App Developer  
@@ -15,22 +15,23 @@ Hi, I'm **Vrowdice**.
 
 ---
 
-## 🗂️ Featured Projects
+## Featured Projects
 
 Here are some highlights:
 
 | Project | Description |
 | ------- | ----------- |
-| 🎮 **BulletTrain** | A story-driven FPS game set in space, featuring realistic graphics and old WWII weapons. |
-| 📱 [**Simple JLPT**](https://play.google.com/store/apps/details?id=com.sjlpt) | A Flutter-based Japanese vocabulary app published on Google Play. |
-| 📅 [**Weekycal**](https://play.google.com/store/apps/details?id=com.weekycal) | A Flutter app for managing schedules with notification features, also available on Google Play. |
-| 🎲 **Dice Result Calculator** | A Unity tool for calculating dice results for tabletop games. |
+| [**BulletTrain**](https://www.youtube.com/watch?v=G30VlZBtZHM) | A story-driven FPS game set in space, featuring realistic graphics and old WWII weapons. |
+| [**TheAboider**](https://www.youtube.com/watch?v=0g1x7rSeNRw) | This project reinterprets Undertale's Sense stage in 3D. |
+| [**Simple JLPT**](https://play.google.com/store/apps/details?id=com.sjlpt) | A Flutter-based Japanese vocabulary app published on Google Play. |
+| [**Weekycal**](https://play.google.com/store/apps/details?id=com.weekycal) | A Flutter app for managing schedules with notification features, also available on Google Play. |
+| **Dice Result Calculator** | A Unity tool for calculating dice results for tabletop games. |
 
 ➡️ Check my repositories for source code and details!
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Languages**: Dart, C++, C#, Python, JavaScript
 - **Frameworks**: Flutter, Unity, Django
@@ -38,7 +39,7 @@ Here are some highlights:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **GitHub**: [Vrowdice](https://github.com/vrowdice)
 - **Email**: minmin310342@gmail.com
