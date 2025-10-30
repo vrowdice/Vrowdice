@@ -33,24 +33,18 @@ Here are some highlights:
 
 ## Tech Stack
 
-- **Languages**: Dart, C++, C#, Python, JavaScript
-- **Frameworks**: Flutter, Unity, Django
-- **Tools**: Git, VS Code, Android Studio, Unreal Engine (learning in progress)
+- **Languages**: Dart, C++, C#, Python, JavaScript, TypeScript
+- **Frameworks**: Flutter, Unity, React
+- **Tools**: Git, VS Code, Android Studio, Cursor, Unreal Engine
 
 ---
 
 ## Contact
 
-- **GitHub**: [Vrowdice](https://github.com/vrowdice)
 - **Email**: minmin310342@gmail.com
+- **Blog**: https://vrowdice.tistory.com/
+- **Instargram**: https://www.instagram.com/vrowdice_std/
 
 ---
 
-## 📝 License
-
-All my public projects are shared for **learning and reference purposes**.  
-Please check individual repositories for specific license details.
-
----
-
-**Thanks for visiting!** ⭐ Feel free to fork, open issues, or contribute ideas.
+**Thanks for visiting!**  Feel free to fork, open issues, or contribute ideas.
