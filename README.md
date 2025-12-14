@@ -8,10 +8,10 @@ This repository is my personal **portfolio hub**, showcasing my projects, experi
 ## About Me
 
 Hi, I'm **Vrowdice**.  
-- 🎓 Game & App Developer  
-- 🛠️ Skilled in **Unity**, **Flutter**, **Python**, **C++**  
-- 🎮 Passionate about creating **immersive games** and **useful apps**  
-- 📚 Always learning and experimenting with new technologies
+- Game & App Developer  
+- Skilled in **Unity**, **Flutter**, **Python**, **C++**  
+- Passionate about creating **immersive games** and **useful apps**  
+- Always learning and experimenting with new technologies
 
 ---
 
@@ -26,8 +26,6 @@ Here are some highlights:
 | [**Simple JLPT**](https://play.google.com/store/apps/details?id=com.sjlpt) | A Flutter-based Japanese vocabulary app published on Google Play. |
 | [**Weekycal**](https://play.google.com/store/apps/details?id=com.weekycal) | A Flutter app for managing schedules with notification features, also available on Google Play. |
 | **Dice Result Calculator** | A Unity tool for calculating dice results for tabletop games. |
-
-➡️ Check my repositories for source code and details!
 
 ---
 
