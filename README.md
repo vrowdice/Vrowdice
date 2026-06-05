@@ -21,6 +21,7 @@ Here are some highlights:
 
 | Project | Description |
 | ------- | ----------- |
+| [**Pantory**](https://youtu.be/7hxIE5PXL-Y?si=dZ74AlzdcQ7UJkIV) | Starting with the fun of intuitive sandbox-type logistics layout design, the game expands to a macro-business management simulation that oversees market fluctuations and accounting and manpower management. |
 | [**BulletTrain**](https://www.youtube.com/watch?v=G30VlZBtZHM) | A story-driven FPS game set in space, featuring realistic graphics and old WWII weapons. |
 | [**TheAboider**](https://www.youtube.com/watch?v=0g1x7rSeNRw) | This project reinterprets Undertale's Sense stage in 3D. |
 | [**Simple JLPT**](https://play.google.com/store/apps/details?id=com.sjlpt) | A Flutter-based Japanese vocabulary app published on Google Play. |
